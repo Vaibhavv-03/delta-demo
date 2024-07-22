@@ -1,2 +1,2 @@
-# delta-demo
-this is just demo fri Git &amp; Github class.
+# starting-demo
+this is just demo for Git &amp; Github class.
